@@ -11,6 +11,8 @@ public class gitclass {
 		Myhello myhello = new Myhello();
 		myhello.sayHello();
 >>>>>>> refs/heads/dev
+
+		System.out.println("v2.0");
 	}
 
 }
